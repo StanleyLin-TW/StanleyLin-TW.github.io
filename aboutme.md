@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Stanley Lin (Shuan-Yih Lin).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Graduate Study
+Currently, I am attending at Cornell Tech's Technion Cornell Dual Degree Program.
+I am obtaining dual degrees after I graduate at May,2021: 
+- **Cornell University**: Master of Information Systems
+- **Technion**: Master of Applied Information Science + CS
+These are some courses I am taking currently:
+- Applied Machine Learning
+- HCI & Design
+- Algorithms and Data Stuctures
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Undergraduate Study
+I obtained my degree at **National Taiwan University**.
+I got a **Bachelor of Business Administration in Information Management** with **GPA 3.92/4.3**.
+Although it does not sound technical or related to computer science,
+the curriculum of our department is rather technical.
+For instance, these are courses that I had taken:
+- Data Structures
+- Algorithms
+- Discrete Mathematics
+- Database Management
+- System Analysis and Design
+- Big Data Analysis
+- Information Retrieval and Text Mining
