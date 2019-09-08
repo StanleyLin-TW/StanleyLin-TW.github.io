@@ -6,21 +6,20 @@ title: About me
 My name is Stanley Lin (Shuan-Yih Lin).
 
 ### Graduate Study
-Currently, I am attending at Cornell Tech's Technion Cornell Dual Degree Program.
-I am obtaining dual degrees after I graduate at May,2021: 
+Currently, I am attending at Cornell Tech's Technion Cornell Dual Degree Program.  
+I am obtaining dual degrees after I graduate at May,2021:  
 - **Cornell University**: Master of Information Systems
-- **Technion**: Master of Applied Information Science + CS
-These are some courses I am taking currently:
+- **Technion**: Master of Applied Information Science + CS  
+These are some courses I am taking currently:  
 - Applied Machine Learning
 - HCI & Design
 - Algorithms and Data Stuctures
 
 ## Undergraduate Study
-I obtained my degree at **National Taiwan University**.
-I got a **Bachelor of Business Administration in Information Management** with **GPA 3.92/4.3**.
-Although it does not sound technical or related to computer science,
-the curriculum of our department is rather technical.
-For instance, these are courses that I had taken:
+I obtained my degree at **National Taiwan University**.  
+I got a **Bachelor of Business Administration in Information Management** with **GPA 3.92/4.3**.  
+Although it does not sound technical or related to computer science, the curriculum of our department is rather technical.
+For instance, these are courses that I had taken:  
 - Data Structures
 - Algorithms
 - Discrete Mathematics
