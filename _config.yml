@@ -71,7 +71,7 @@ social-network-links:
   email: "sl3283@cornell.edu"
   linkedin: stanley-shuan-yih-lin-a2511116a/
   github: StanleyLin-TW
-  telephone:(917)-374-0067
+  telephone:+19173740067
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -89,6 +89,7 @@ social-network-links:
 share-links-active:
   github: true
   linkedin: true
+  telephone: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -143,7 +144,7 @@ staticman:
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 100
+excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
