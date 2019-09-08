@@ -21,7 +21,12 @@ description: Cornell Tech, Connective Media 2019 - 2021
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "aboutme"
+  Projects: 
+    - Customer Recommendation System of Airline Industry: "aboutme"
+    - Twitter Sentiment Analysis: "aboutme"
+  Extracurricular Activities: 
+    - President-IMSA: "aboutme"
+    - Journalist-NTUSA: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
