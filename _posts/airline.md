@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Cusotmer Recommendation of The Airline Industry
 ---
 This was my graduation project related to customer recommendation of airline industry.
