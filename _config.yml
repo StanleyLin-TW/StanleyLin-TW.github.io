@@ -22,7 +22,7 @@ description: Cornell Tech, Connective Media 2019 - 2021
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    - Customer Recommendation System of Airline Industry: "_posts/airline"
+    - Customer Recommendation System of Airline Industry: "https://stanleylin-tw.github.io/2019-09-10-airline/" 
     - Twitter Sentiment Analysis: "aboutme"
   Extracurricular Activities: 
     - President-IMSA: "aboutme"
