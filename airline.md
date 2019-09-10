@@ -3,7 +3,7 @@ layout: page
 title: Cusotmer Recommendation of The Airline Industry
 ---
 This was my graduation project related to customer recommendation of airline industry.
-![img](https://github.com/StanleyLin-TW/IM-Project/blob/master/Final%20Presentation/Cover.PNG)
+![img](https://github.com/StanleyLin-TW/IM-Project/blob/master/Final%20Presentation/Cover.png)
 The aim of the project is to find out certain pattern out of 
 Using R and Python to implement different algorithms for predicting.
 
