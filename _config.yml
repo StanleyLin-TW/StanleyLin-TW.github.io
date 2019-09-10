@@ -22,7 +22,7 @@ description: Cornell Tech, Connective Media 2019 - 2021
 navbar-links:
   About Me: "aboutme"
   Projects: 
-    - Customer Recommendation System of Airline Industry: "airline"
+    - Customer Recommendation System of Airline Industry: "_posts/airline"
     - Twitter Sentiment Analysis: "aboutme"
   Extracurricular Activities: 
     - President-IMSA: "aboutme"
