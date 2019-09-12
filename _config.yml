@@ -20,7 +20,7 @@ description: Cornell Tech, Connective Media 2019 - 2021
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me:
   Projects: 
     - Customer Recommendation System of Airline Industry: "https://stanleylin-tw.github.io/2019-09-10-airline/" 
     - Twitter Sentiment Analysis: "https://stanleylin-tw.github.io/2019-09-10-twitter/" 
@@ -29,7 +29,6 @@ navbar-links:
     - Exchange Student-NTUsg: "https://stanleylin-tw.github.io/2019-09-09-exchange/" 
     - President-IMSA:  "https://stanleylin-tw.github.io/2019-09-09-president/" 
     - Class and Graduate Representative-NTUIM:  "https://stanleylin-tw.github.io/2019-09-09-representative/" 
-   # - Journalist-NTUSA: "https://stanleylin-tw.github.io/2019-09-09-journal/" 
   Stanley's home: "https://stanleylin-tw.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
