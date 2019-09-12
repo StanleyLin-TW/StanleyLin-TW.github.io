@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Class Representative & Graduate Representative
-subtitle: Sep.2014 - Jun.2018
+subtitle: Sep. 2014 - Jun. 2018
 ---
 I was the class representative of NTUIM, class of 2014-2018.  
 (NTUIM devotes to National Taiwan University, Department of Information Management)  
