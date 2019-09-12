@@ -24,12 +24,12 @@ navbar-links:
   Projects: 
     - Customer Recommendation System of Airline Industry: "https://stanleylin-tw.github.io/2019-09-10-airline/" 
     - Twitter Sentiment Analysis: "https://stanleylin-tw.github.io/2019-09-10-twitter/" 
-    - Big Data Analysis: "https://stanleylin-tw.github.io/2019-09-10-big-data/" 
+    - Stock Trend Prediction: "https://stanleylin-tw.github.io/2019-09-10-big-data/" 
   Extracurricular Activities: 
+    - Exchange Student-NTUsg: "https://stanleylin-tw.github.io/2019-09-09-exchange/" 
     - President-IMSA:  "https://stanleylin-tw.github.io/2019-09-09-president/" 
-    - Class and Graduate Representative-NTUIM: "aboutme"
-    - Exchange Student-NTUsg: "aboutme"
-    - Journalist-NTUSA: "aboutme"
+    - Class and Graduate Representative-NTUIM:  "https://stanleylin-tw.github.io/2019-09-09-representative/" 
+    - Journalist-NTUSA: "https://stanleylin-tw.github.io/2019-09-09-journal/" 
   Author's home: "https://stanleylin-tw.github.io/aboutme/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
