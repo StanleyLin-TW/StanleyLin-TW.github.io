@@ -8,7 +8,7 @@ I was the president of IMSA in my junior year in university.
 
 
 As a president, I coordinated with the faculties, professors and students to hold up events.  
-I led over **200 members** and used the limited budget of **USD$ 6,500** to hold over 20 events. 
+I led over **200 members** and used the limited budget of **USD$ 6,500** to hold over 20 events.   
 As a result, I cultivated my skills of leading and team-working during this year.   
   
 Here are some events that I coordinated or cooperated with others during my term:  
