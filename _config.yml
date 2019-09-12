@@ -20,7 +20,7 @@ description: Cornell Tech, Connective Media 2019 - 2021
 
 # List of links in the navigation bar
 navbar-links:
-  About Me:
+  About Me: "aboutme"
   Projects: 
     - Customer Recommendation System of Airline Industry: "https://stanleylin-tw.github.io/2019-09-10-airline/" 
     - Twitter Sentiment Analysis: "https://stanleylin-tw.github.io/2019-09-10-twitter/" 
