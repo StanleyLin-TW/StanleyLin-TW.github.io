@@ -24,6 +24,6 @@ For instance, here are some events that I coordinated or cooperated with others 
 - NTU Orientation
   
 Some picutres of events.
-#### Copyright belongs to NTU IMSA, please do not download and share
+#### Copyright belongs to NTU IMSA, please do not download.
 ![image-title-here](/IMSA/1.jpg) 
 ![image-title-here](/IMSA/2.jpg)  
