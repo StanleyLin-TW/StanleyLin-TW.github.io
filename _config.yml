@@ -30,7 +30,7 @@ navbar-links:
     - President-IMSA:  "https://stanleylin-tw.github.io/2019-09-09-president/" 
     - Class and Graduate Representative-NTUIM:  "https://stanleylin-tw.github.io/2019-09-09-representative/" 
    # - Journalist-NTUSA: "https://stanleylin-tw.github.io/2019-09-09-journal/" 
-  home: "https://stanleylin-tw.github.io/aboutme/"
+  Stanley's home: "https://stanleylin-tw.github.io/aboutme/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
