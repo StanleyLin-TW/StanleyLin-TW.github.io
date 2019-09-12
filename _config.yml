@@ -29,7 +29,7 @@ navbar-links:
     - Exchange Student-NTUsg: "https://stanleylin-tw.github.io/2019-09-09-exchange/" 
     - President-IMSA:  "https://stanleylin-tw.github.io/2019-09-09-president/" 
     - Class and Graduate Representative-NTUIM:  "https://stanleylin-tw.github.io/2019-09-09-representative/" 
-    - Journalist-NTUSA: "https://stanleylin-tw.github.io/2019-09-09-journal/" 
+   # - Journalist-NTUSA: "https://stanleylin-tw.github.io/2019-09-09-journal/" 
   Author's home: "https://stanleylin-tw.github.io/aboutme/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -44,9 +44,9 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#0abab5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+navbar-col: "#0ABAB5"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#0DEAE4"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
