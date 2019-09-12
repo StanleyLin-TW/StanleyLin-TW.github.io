@@ -4,6 +4,8 @@ title: About me
 ---
 
 My name is Stanley Lin (Shuan-Yih Lin).
+I am looking for Softwaree Enginner Summer Intern in Summer, 2020.  
+It would be my pleasure to work for you and accumulate my practical experiences :)  
 
 ### Graduate Study
 Currently, I am attending at Cornell Tech's Technion Cornell Dual Degree Program.  
