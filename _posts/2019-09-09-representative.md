@@ -9,10 +9,12 @@ As a class representative, here are some of my responsibilities:
 - Deal with companies: Including textbook companies, sponsoring, presentations...
 - Cooperate with professors and faculties: Check class status in course, feedback-ing for classmates
   
-Also, I was elected as the graduate representative for the class of 2014-2018 as well.  
-There are some major tasks and honors I did:  
+Also, I was elected as the graduate representative for the class of 2014-2018 as well.    
+Here are some major tasks and honors I did:  
+  
 - Graduation Events Covener, NTUIM   
 Deals with graduation photography, mementos, and book for the class.  
+   
 - Recipient for Graudation Certificate, Class of 2014 -2018, NTUIM  
 Represent the department to receive graduation certificate from principal in NTU's graduation ceremony.  
   
