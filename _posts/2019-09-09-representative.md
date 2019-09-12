@@ -5,7 +5,7 @@ subtitle: Sep. 2014 - Jun. 2018
 ---
 I was the class representative of NTUIM, class of 2014-2018.  
 (NTUIM devotes to National Taiwan University, Department of Information Management)  
-As a class representative, here are some my responsibilities:
+As a class representative, here are some of my responsibilities:
 - Deal with companies: Including textbook companies, sponsoring, presentations...
 - Cooperate with professors and faculties: Check class status in course, feedback-ing for classmates
   
