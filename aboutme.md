@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Stanley Lin (Shuan-Yih Lin).
+My name is Stanley Lin (Shuan-Yih Lin).  
 I am looking for Softwaree Enginner Summer Intern in Summer, 2020.  
 It would be my pleasure to work for you and accumulate my practical experiences :)  
 
